@@ -8,3 +8,4 @@ chmod u+x,g+x,o+r helllo give the owner,groups and other users permission to the
 chmod ugo+x hello gives the owner, groups, and other users permissions
 chmod 007 hello gives the owner of the file no permission, groups no permission and permission to other users
 chmod 753 gives changes the name of the file hello
+chmod --refrence=olleh hello gives the file name mirror permission
