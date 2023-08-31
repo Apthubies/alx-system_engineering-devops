@@ -11,3 +11,4 @@ chmod 753 gives changes the name of the file hello
 chmod --refrence=olleh hello gives the file name mirror permission
 chmod -R ugo+X adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 mkdir -m 751 my_dir creates a directory eith the permission
+chgrp school hello changes the group owner hello file
