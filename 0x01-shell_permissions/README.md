@@ -15,3 +15,4 @@ chgrp school hello changes the group owner hello file
 chown vincent:staff * changes the owner to vincent awnd the group owner to staff
 chown -h vincent:staff _hello changes the file owners and makes it a symbolic link_
 chown --from=guilaume betty hello changes the owner of the file helo to betty if only it is owned by guilaume
+telnet towel.blinkenlights.nl Star Wars
