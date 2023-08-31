@@ -6,3 +6,4 @@ touch creates an empty file called hello
 chmod u+x hello give the owner of the file hello permission to execute
 chmod u+x,g+x,o+r helllo give the owner,groups and other users permission to the file
 chmod ugo+x hello gives the owner, groups, and other users permissions
+chmod 007 hello gives the owner of the file no permission, groups no permission and permission to other users
